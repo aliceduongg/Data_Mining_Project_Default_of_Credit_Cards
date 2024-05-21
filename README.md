@@ -1,1 +1,7 @@
-# Data_Mining_Project_Default_of_Credit_Cards
+# Data Mining Project: Default of Credit Cards
+Team of three: Alice, Yaksh, Joe 
+Language & Tools: Python, Jupyter Notebook
+
+
+
+
