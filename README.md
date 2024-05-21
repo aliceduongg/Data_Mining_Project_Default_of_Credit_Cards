@@ -1,7 +1,7 @@
 # Data Mining Project: Default of Credit Cards
 Team of three: Alice, Yaksh, Joe \
 Language, Tools, Technologies, Library: Python, Jupyter Notebook, Pandas, Numpy, Matplotlib
-## Data Source : 
+## Data Source (From Reference Paper) : 
 The study took payment data in October, 2005, from an important bank (a cash and credit card issuer) in Taiwan and the targets were credit card holders of the bank. Among the total 25,000 observations, 5529 observations (22.12%) are the cardholders with default payment.
 ## Problem definition:
 - Investigate and understand customers' default payment behavior in Taiwan.
